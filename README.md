@@ -2,3 +2,4 @@
 2. try BTC
 3. epochs
 4. try another layers
+5. add more features
