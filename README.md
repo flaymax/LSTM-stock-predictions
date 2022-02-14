@@ -3,3 +3,5 @@
 3. epochs
 4. try another layers
 5. add more features
+
+try another LSTM 
